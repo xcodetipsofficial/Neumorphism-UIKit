@@ -1,0 +1,6 @@
+module Pods_NeumorphismUI {
+  umbrella header "Pods-NeumorphismUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

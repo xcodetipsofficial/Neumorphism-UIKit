@@ -1,0 +1,16 @@
+PODS:
+  - EMTNeumorphicView (1.0.4)
+
+DEPENDENCIES:
+  - EMTNeumorphicView
+
+SPEC REPOS:
+  trunk:
+    - EMTNeumorphicView
+
+SPEC CHECKSUMS:
+  EMTNeumorphicView: cb5e92953e43b1872ab47fefd451a9ce0c16fc77
+
+PODFILE CHECKSUM: ae8a42336175f492491ea4234da5599a29065135
+
+COCOAPODS: 1.8.4
